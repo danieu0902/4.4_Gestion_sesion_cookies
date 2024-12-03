@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Daniel serrano",
+        "email": "dani@hola.com",
+        "password": "dani"
+    },
+    {
+        "name": "jose antonio muñoz",
+        "email": "jamj@tierra.com",
+        "password": "root"
+    },
+    {
+        "name": "Carlos Mora",
+        "email": "carlosmorita@hotmail.es",
+        "password": "mora"
+    }
+]
